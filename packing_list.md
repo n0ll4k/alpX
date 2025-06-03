@@ -2,7 +2,7 @@
 
 ## Body
 
-[] Helmet
+[ ] Helmet
 [] Glasses
 [] Gloves
 [] Bike Shorts
