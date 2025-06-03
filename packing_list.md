@@ -51,6 +51,7 @@
 - [ ] Fenistil
 - [ ] Ass Creme!!!
 - [ ] 1-2 Bottles of Water/Water Bladder
+- [ ] String/Clothesline
 
 ## Food
 
