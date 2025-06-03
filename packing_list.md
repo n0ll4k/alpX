@@ -25,6 +25,7 @@
 - [ ] Rain Jacket
 - [ ] Rain Pants
 - [ ] Gillet (optional)
+- [ ] Shoes
 
 ## Bike Stuff
 
